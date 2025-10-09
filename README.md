@@ -1,16 +1,21 @@
-# belanja
+## Jobsheet 5.2 Membangun Navigasi
 
-A new Flutter project.
+**Nama  : Aldo Khrisna Wijaya**
 
-## Getting Started
+**NIM   : 2341760091**
 
-This project is a starting point for a Flutter application.
+**Kelas : SIB - 3C**
 
-A few resources to get you started if this is your first Flutter project:
+## Hasil Percobaan
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+1. Praktikum 5 Langkah 6:
+![Screenshot belanja](assets/readme/01.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+2. Praktikum 5 Langkah 7:
+![Screenshot belanja](assets/readme/02.png)
+
+3. Tugas 2
+    - Sebelum
+![Screenshot belanja](assets/readme/03.png)
+    - Sesudah 
+![Screenshot belanja](assets/readme/04.png)
